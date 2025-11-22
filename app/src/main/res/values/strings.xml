@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chiste diario</string>
+    <string name="chistesFavoritos">Mis chistes favoritos</string>
+    <string name="title_activity_main2">Chiste diario</string>
+
+    <!-- Menú  -->
+    <string name="title_home">Chistes</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_otras_apps">Otras Apps</string>
+
+    <!-- Chistes  -->
+    <string name="botonAnterior">Ant.</string>
+    <string name="botonSiguiente">Sig.</string>
+    <string name="chisteSuperior">Cada día un nuevo chiste</string>
+
+    <!-- Favoritos  -->
+    <string name="noFavoritos">No hay ningún chiste en favoritos</string>
+
+    <!-- Otras Apps -->
+    <string name="titulo_otras_apps">Otras Apps del Autor</string>
+</resources>
